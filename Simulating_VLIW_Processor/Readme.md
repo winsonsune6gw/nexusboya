@@ -1,6 +1,5 @@
 ******************************************************************************
-						Name : Nikhil Teja
-						Entry Number : 2014CSB1011
+		Name : Nikhil Teja
 ******************************************************************************
 Compilation:
 
@@ -14,6 +13,10 @@ java ConventionalHPC
 ******************************************************************************
 Small Note : 
  
-The Program Expects to find the trace [basic_math.txt](https://drive.google.com/open?id=1uH2ZqpotuuFP00F-IxU6fkZvAUdj2wYl)
+*The Program Expects to find the trace [basic_math.txt](https://drive.google.com/open?id=1uH2ZqpotuuFP00F-IxU6fkZvAUdj2wYl)
+
+References : 
+https://courses.cs.washington.edu/courses/csep548/06au/lectures/vLIW.pdf
+https://www.youtube.com/watch?v=CjR9bqdIfZM
 
 *******************************************************************************
